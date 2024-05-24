@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+G:\Users\user\Desktop\Github_Homework\Homework2\Task1\Task1.cpp(17,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+G:\Users\user\Desktop\Github_Homework\Homework2\Task1\Task1.cpp(21,49): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Task1.vcxproj -> G:\Users\user\Desktop\Github_Homework\Homework2\x64\Debug\Task1.exe
